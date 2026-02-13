@@ -1,0 +1,20 @@
+[project]
+name = "atmospheric-science-tutorials"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cfgrib>=0.9.15.1",
+    "h5py>=3.15.1",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "minisom>=2.3.6",
+    "netcdf4>=1.7.4",
+    "numpy>=2.4.2",
+    "pandas>=3.0.0",
+    "plotly>=6.5.2",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.0",
+    "xarray>=2026.1.0",
+]
